@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hot-chocolate/static/css/main.a1e263bb.css",
+    "main.js": "/hot-chocolate/static/js/main.4caea2d6.js",
+    "static/js/787.61b8f3cb.chunk.js": "/hot-chocolate/static/js/787.61b8f3cb.chunk.js",
+    "index.html": "/hot-chocolate/index.html",
+    "main.a1e263bb.css.map": "/hot-chocolate/static/css/main.a1e263bb.css.map",
+    "main.4caea2d6.js.map": "/hot-chocolate/static/js/main.4caea2d6.js.map",
+    "787.61b8f3cb.chunk.js.map": "/hot-chocolate/static/js/787.61b8f3cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1e263bb.css",
+    "static/js/main.4caea2d6.js"
+  ]
+}
